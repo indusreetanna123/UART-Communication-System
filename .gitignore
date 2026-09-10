@@ -1,0 +1,32 @@
+# Vivado generated files
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.gen/
+.xsim/
+
+# Generated simulation files
+*.log
+*.jou
+*.pb
+*.wdb
+*.str
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+# Vivado project generated folders
+project_4.cache/
+project_4.hw/
+project_4.ip_user_files/
+project_4.sim/
+project_4.srcs/
+
+# Vivado project file
+*.xpr
